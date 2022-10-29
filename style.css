@@ -385,7 +385,8 @@ body {
 }
 @media (max-width: 428px) {
   .fEFrKQ {
-    margin-top: 2em;
+    width: 70%;
+    margin: 2em auto auto auto;
   }
 }
 .grLVrG {

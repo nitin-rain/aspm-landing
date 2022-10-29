@@ -190,6 +190,7 @@ body {
   flex-direction: column;
   -webkit-box-pack: center;
   justify-content: center;
+  align-items: center;
   padding: 0px 15vw;
   background: url("/static/media/homepageLg.5d6bcd6943808c2b66afb7cc6a8d52cd.svg")
     center center / cover no-repeat;
@@ -204,6 +205,7 @@ body {
 .gwCzxG {
   font-size: 3rem;
   margin-bottom: 1.5rem;
+  text-align: center;
 }
 .dXJDlp {
   display: inline-block;
@@ -378,7 +380,8 @@ body {
   }
 }
 .fEFrKQ {
-  width: 70%;
+  width: max-content;
+  text-align: center;
 }
 @media (max-width: 428px) {
   .fEFrKQ {
